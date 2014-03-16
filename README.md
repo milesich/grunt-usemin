@@ -1,4 +1,6 @@
-# grunt-usemin [![Build Status](https://secure.travis-ci.org/yeoman/grunt-usemin.png?branch=master)](http://travis-ci.org/yeoman/grunt-usemin) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+> added support for new inline block and 2 new targets inlinejs, inlinecss that are not part of the original grunt-usemin
+
+# grunt-usemin
 
 > Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views).
 
